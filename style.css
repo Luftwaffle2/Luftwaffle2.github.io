@@ -1,0 +1,60 @@
+
+.container {
+  width: 1040px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.columns-container {
+  display: flex;
+}
+
+.columns-container .left-column {
+  width: 440px;
+  margin-right: 80px;
+}
+
+.columns-container .right-column {
+  width: 440px;
+}
+
+h1 {
+margin-left: 110px;
+}
+
+.btn {
+  margin-left: 110px;
+  margin-top: 25px;
+}
+
+input{
+  background-color: yellow;
+  border: black;
+ border-radius: 25px;
+ color: black;
+ padding: 15px 32px;
+ margin: 4px 2px;
+ text-align: center;
+font-size: 16px;
+cursor: pointer;
+}
+
+input:active{
+  background-color: rgb(255, 255, 255) ;
+  border: 1px solid black;
+ border-radius: 25px;
+ color: black;
+ padding: 15px 32px;
+ margin: 4px 2px;
+ text-align: center;
+font-size: 16px;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+
